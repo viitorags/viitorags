@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estou disponível para o mercado de trabalho
 - 🌱 Eu atualmente estou fazendo um curso de Analise e Desenvolvimento de Sistemas
-- 😄 Pronouns: Ele/Dele
+- 😄 Pronomes: Ele/Dele
 
 <div>
   <a href="https://github.com/viitorags">
