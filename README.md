@@ -6,8 +6,8 @@
 
 <div>
   <a href="https://github.com/viitor-dev">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=viitor-dev&show_icons=true&theme=radical">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viitor-dev&layout=compact&theme=radical">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=viitorags&show_icons=true&theme=radical">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viitorags&layout=compact&theme=radical">
 </div>
 
 <div style="display: inline_block"><br>
@@ -18,7 +18,7 @@
 
 ##
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viitor-dev/viitor-dev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/viitor-dev/viitor-dev/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/viitor-dev/viitor-dev/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viitorags/viitorags/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/viitorags/viitorags/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/viitorags/viitorags/output/github-contribution-grid-snake.svg">
 </picture>
