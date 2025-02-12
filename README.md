@@ -28,14 +28,6 @@
   </table>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=viitorags&label=Profile%20views&color=0e75b6&style=flat" alt="Viitor" /> </p>
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Viitor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Viitor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Viitor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-
 ##
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viitorags/viitorags/output/github-contribution-grid-snake-dark.svg">
