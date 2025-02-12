@@ -1,8 +1,7 @@
 ## Olá, meu nome é Vitor Gabriel
 
 - 🔭 Atualmente estou disponível para o mercado de trabalho
-- 🌱 Eu atualmente estou fazendo um curso de Analise e Desenvolvimento de Sistemas
-- 😄 Pronomes: Ele/Dele
+- 🌱 Eu atualmente estou cursando Ciência da Computação
 
 <div>
   <a href="https://github.com/viitor-dev">
