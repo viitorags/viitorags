@@ -1,7 +1,6 @@
-## Olá, meu nome é Vitor Gabriel
+## Hello, my name is Vitor
 
-- 🔭 Atualmente estou disponível para o mercado de trabalho
-- 🌱 Eu atualmente estou cursando Ciência da Computação
+- 🌱 I am a Computer Science student
 
 <div align="center">
   <table>
