@@ -17,6 +17,8 @@
   <img src="https://img.shields.io/badge/JavaScript-282828?style=for-the-badge&logo=javascript&logoColor=fabd2f" />
   <img src="https://img.shields.io/badge/HTML5-282828?style=for-the-badge&logo=html5&logoColor=fb4934" />
   <img src="https://img.shields.io/badge/CSS3-282828?style=for-the-badge&logo=css&logoColor=83a598" />
+  <img src="https://img.shields.io/badge/NodeJs-282828?style=for-the-badge&logo=nodedotjs&logoColor=a9b665" />
+    <img src="https://img.shields.io/badge/Go-282828?style=for-the-badge&logo=go&logoColor=#7daea3" />
 
  <!-- <img src="https://img.shields.io/badge/Python-282828?style=for-the-badge&logo=python&logoColor=d79921" /> -->
 <!--   <img src="https://img.shields.io/badge/Linux-282828?style=for-the-badge&logo=linux&logoColor=b8bb26" /> -->
@@ -30,6 +32,9 @@
 ### Tools
 <p>
     <img src="https://img.shields.io/badge/Neovim-282828?style=for-the-badge&logo=neovim&logoColor=b8bb26" />
+      <img src="https://img.shields.io/badge/Git-282828?style=for-the-badge&logo=git" />
+<img src="https://img.shields.io/badge/Github-Copilot-282828?style=for-the-badge&logo=githubcopilot"/>
+  <img src="https://img.shields.io/badge/VsCode-282828?style=for-the-badge&logo=v&logoColor=#7daea3"/>
 </p>
 
 ## GitHub Stats
