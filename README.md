@@ -42,7 +42,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=viitorags&show_icons=true&theme=gruvbox" height="180px"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viitorags&layout=compact&theme=gruvbox" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viitorags&layout=compact&theme=gruvbox" height="200px"/>
 </div>
 
 ---
