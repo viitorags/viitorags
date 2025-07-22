@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#dca561;background:#1f1f28;padding:20px 0;font-family:monospace;">
+<h1 align="center" style="color:#d79921;background:#282828;padding:20px 0;font-family:monospace;">
   Hi there, I'm Vitor!
 </h1>
 
@@ -14,39 +14,39 @@
 
 ### Languages
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-1f1f28?style=for-the-badge&logo=javascript&logoColor=dca561" />
-  <img src="https://img.shields.io/badge/HTML5-1f1f28?style=for-the-badge&logo=html5&logoColor=e46876" />
-  <img src="https://img.shields.io/badge/CSS3-1f1f28?style=for-the-badge&logo=css&logoColor=7e9cd8" />
-  <img src="https://img.shields.io/badge/NodeJs-1f1f28?style=for-the-badge&logo=nodedotjs&logoColor=98bb6c" />
-    <img src="https://img.shields.io/badge/Go-1f1f28?style=for-the-badge&logo=go&logoColor=7fb4ca" />
+  <img src="https://img.shields.io/badge/JavaScript-282828?style=for-the-badge&logo=javascript&logoColor=fabd2f" />
+  <img src="https://img.shields.io/badge/HTML5-282828?style=for-the-badge&logo=html5&logoColor=fb4934" />
+  <img src="https://img.shields.io/badge/CSS3-282828?style=for-the-badge&logo=css&logoColor=83a598" />
+  <img src="https://img.shields.io/badge/NodeJs-282828?style=for-the-badge&logo=nodedotjs&logoColor=a9b665" />
+    <img src="https://img.shields.io/badge/Go-282828?style=for-the-badge&logo=go&logoColor=#7daea3" />
 
- <!-- <img src="https://img.shields.io/badge/Python-1f1f28?style=for-the-badge&logo=python&logoColor=dca561" /> -->
-<!--   <img src="https://img.shields.io/badge/Linux-1f1f28?style=for-the-badge&logo=linux&logoColor=98bb6c" /> -->
-<!--  <img src="https://img.shields.io/badge/Lua-1f1f28?style=for-the-badge&logo=lua&logoColor=7e9cd8" /> -->
-<!-- <img src="https://img.shields.io/badge/C++-1f1f28?style=for-the-badge&logo=c%2B%2B&logoColor=e6c384" /> -->
- <!-- <img src="https://img.shields.io/badge/C%23-1f1f28?style=for-the-badge&logo=csharp&logoColor=98bb6c" /> -->
-<!-- <img src="https://img.shields.io/badge/Java-1f1f28?style=for-the-badge&logo=java&logoColor=a292a3" /> -->
-<!-- <img src="https://img.shields.io/badge/Nix-1f1f28?style=for-the-badge&logo=nixos&logoColor=7fb4ca" /> -->
+ <!-- <img src="https://img.shields.io/badge/Python-282828?style=for-the-badge&logo=python&logoColor=d79921" /> -->
+<!--   <img src="https://img.shields.io/badge/Linux-282828?style=for-the-badge&logo=linux&logoColor=b8bb26" /> -->
+<!--  <img src="https://img.shields.io/badge/Lua-282828?style=for-the-badge&logo=lua&logoColor=458588" /> -->
+<!-- <img src="https://img.shields.io/badge/C++-282828?style=for-the-badge&logo=c%2B%2B&logoColor=fe8019" /> -->
+ <!-- <img src="https://img.shields.io/badge/C%23-282828?style=for-the-badge&logo=csharp&logoColor=b8bb26" /> -->
+<!-- <img src="https://img.shields.io/badge/Java-282828?style=for-the-badge&logo=java&logoColor=d3869b" /> -->
+<!-- <img src="https://img.shields.io/badge/Nix-282828?style=for-the-badge&logo=nixos&logoColor=8ec07c" /> -->
 </p>
 
 ### Tools
 <p>
-    <img src="https://img.shields.io/badge/Neovim-1f1f28?style=for-the-badge&logo=neovim&logoColor=98bb6c" />
-      <img src="https://img.shields.io/badge/Git-1f1f28?style=for-the-badge&logo=git" />
-<img src="https://img.shields.io/badge/Github-Copilot-1f1f28?style=for-the-badge&logo=githubcopilot"/>
-  <img src="https://img.shields.io/badge/VsCode-1f1f28?style=for-the-badge&logo=v&logoColor=7fb4ca"/>
+    <img src="https://img.shields.io/badge/Neovim-282828?style=for-the-badge&logo=neovim&logoColor=b8bb26" />
+      <img src="https://img.shields.io/badge/Git-282828?style=for-the-badge&logo=git" />
+<img src="https://img.shields.io/badge/Github-Copilot-282828?style=for-the-badge&logo=githubcopilot"/>
+  <img src="https://img.shields.io/badge/VsCode-282828?style=for-the-badge&logo=v&logoColor=#7daea3"/>
 </p>
-
 
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=viitorags&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=viitorags&show_icons=true&theme=gruvbox" height="180px"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viitorags&layout=compact&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viitorags&layout=compact&theme=gruvbox" height="180px"/>
 </div>
 
 ---
+
 
 ## Featured Projects
 
