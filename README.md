@@ -18,7 +18,8 @@
   <img src="https://img.shields.io/badge/HTML5-282828?style=for-the-badge&logo=html5&logoColor=fb4934" />
   <img src="https://img.shields.io/badge/CSS3-282828?style=for-the-badge&logo=css&logoColor=83a598" />
   <img src="https://img.shields.io/badge/NodeJs-282828?style=for-the-badge&logo=nodedotjs&logoColor=a9b665" />
-    <img src="https://img.shields.io/badge/Go-282828?style=for-the-badge&logo=go&logoColor=#7daea3" />
+  <img src="https://img.shields.io/badge/Go-282828?style=for-the-badge&logo=go&logoColor=#7daea3" />
+  <img src="https://img.shields.io/badge/PHP-282828?style=for-the-badge&logo=php&logoColor=#7daea3" />
 
  <!-- <img src="https://img.shields.io/badge/Python-282828?style=for-the-badge&logo=python&logoColor=d79921" /> -->
 <!--   <img src="https://img.shields.io/badge/Linux-282828?style=for-the-badge&logo=linux&logoColor=b8bb26" /> -->
@@ -40,9 +41,9 @@
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=viitorags&show_icons=true&theme=gruvbox" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=viitorags&show_icons=true&theme=ayu-mirage" height="180px"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viitorags&layout=compact&theme=gruvbox" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viitorags&layout=compact&theme=ayu-mirage" height="200px"/>
 </div>
 
 ---
