@@ -21,7 +21,7 @@ jobs:
           user: viitorags
           template: classic
           base: header, activity, community, repositories, metada
-          config_timezone: Brazil
+          config_timezone: Brazil/Sao_Paulo
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_secrets: yes
