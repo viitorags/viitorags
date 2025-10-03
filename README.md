@@ -11,25 +11,9 @@
 
 ---
 
-<table>
-  <tbody>
-    <tr>
-      <td style="text-align: center; vertical-align: top;">
-          <img src="./github-metrics.svg"/>
-      </td>
-      <td style="text-align: left; vertical-align: top;">
-        <h3>Languages</h3>
-        <p>
-          <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,go,php,react,tailwind" />
-        </p>
-        <h3>Tools</h3>
-        <p>
-          <img src="https://skillicons.dev/icons?i=git,github,neovim,vscode,docker," />
-        </p>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<div>
+  <img src="./github-metrics.svg"/>
+</div>
 
 ---
 
