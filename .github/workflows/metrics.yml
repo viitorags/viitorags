@@ -30,7 +30,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_display: columns
           config_octicon: yes
-          config_order: base.header, base.activity, base.community, base.repositories, base.metada
+          config_order: header, activity, community, repositories, metada
           config_timezone: America/Sao_Paulo
           plugin_achievements: yes
           plugin_achievements_display: detailed
