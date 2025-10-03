@@ -1,6 +1,6 @@
 <div align="center"> 
   <p style="font-size: 28px; font-weight: 800;">Hi there, I'm Vitor</p>
-  <img src="https://count.getloli.com/@viitorags?name=viitorags&theme=miku&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" width="300px"/>  
+  <img src="https://count.getloli.com/@viitorags?name=viitorags&theme=booru-r6gdrawfriends&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto&num=2025" width="300px"/>  
 </div>
 
 ## About Me
