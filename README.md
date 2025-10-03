@@ -14,7 +14,10 @@
 <table>
   <tbody>
     <tr>
-      <td style="text-align: left; vertical-align: top;">
+      <td style="text-align: center; vertical-align: top;">
+          <img src="./github-metrics.svg"/>
+      </td>
+       <td style="text-align: left; vertical-align: top;">
         <h3>Languages</h3>
         <p>
           <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,go,php,react,tailwind" />
@@ -23,13 +26,6 @@
         <p>
           <img src="https://skillicons.dev/icons?i=git,github,neovim,vscode,docker," />
         </p>
-      </td>
-      <td style="text-align: center; vertical-align: top; padding-left: 20rem;">
-          <img src="https://github-readme-stats.vercel.app/api?username=viitorags&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true" width="320px"/>
-          <br>
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=viitorags&theme=ayu-mirage&hide_border=true" width="320px"/>
-          <br>
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viitorags&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact" width="320px"/>
       </td>
     </tr>
   </tbody>
