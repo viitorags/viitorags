@@ -9,16 +9,28 @@
 - I love exploring new retro aesthetics and terminal themes.
 - Learning JavaScript, Go & Linux scripting.
 
+## Knowledge
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=js,html,css,nodejs,go,php,react,tailwind" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,neovim,vscode,docker" />
+
+## Statistics
+<img src="./github-metrics.svg" alt="Metrics" width="100%"/>
+
 ---
 
-<div>
-  <img src="./github-metrics.svg"/>
+## Contact
+
+Under maintenance...
+
+<div align="center">
+  <h1 align="center">Thank you for reading</h1>
+  <img width="360" height="425" alt="image" src="https://github.com/user-attachments/assets/bdc9861d-7807-4e65-ab93-8646ba97c288" />
+
+
 </div>
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viitorags/viitorags/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/viitorags/viitorags/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/viitorags/viitorags/output/github-contribution-grid-snake.svg">
-</picture>
