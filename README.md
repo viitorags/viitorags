@@ -20,28 +20,19 @@
 <img src="https://skillicons.dev/icons?i=git,github,neovim,vscode,docker" />
 
 ## Statistics
-<!-- <table>
-  <tbody>
-    <tr>
-      <td>
-        <img src="https://github.com/viitorags/viitorags/blob/main/general.svg" width="100%" alt="Metrics"/>
-      </td>
-      <td>
-        <img src="https://github.com/viitorags/viitorags/blob/main/medias.svg" width="100%" alt="Metrics"/>
-      </td>
-    </tr>
-  </tbody>
-</table> -->
-<div style="display: flex; gap: 10px;">
-  <img src="https://github.com/viitorags/viitorags/blob/main/general.svg" alt="Metrics" style="flex: 1;"/>
-  <img src="https://github.com/viitorags/viitorags/blob/main/medias.svg" alt="Metrics" style="flex: 1;"/>
-</div>
 
----
+<p align="center">
+  <img src="https://github.com/viitorags/viitorags/blob/main/general.svg" alt="Metrics" width="49%"/>
+  <img src="https://github.com/viitorags/viitorags/blob/main/medias.svg" alt="Metrics" width="49%"/>
+</p>
 
 ## Contact
 
-Under maintenance...
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_USUARIO/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitoraraujo.tech@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/vitor000562)
+
+
 
 <div align="center">
   <h1 align="center">Thank you for reading</h1>
