@@ -219,11 +219,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="143.7774632938263" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="143.7774632938263" y="0" width="111.10631523085088" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="254.88377852467715" y="0" width="100.14540951707058" height="8" fill="#8ea64c"/>
-                    <rect mask="url(#languages-bar)" x="355.0291880417478" y="0" width="55.479922165222" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="410.50911020696975" y="0" width="49.49088979303025" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="183.7898830925084" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="183.7898830925084" y="0" width="142.02654727178165" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="325.81643036429006" y="0" width="70.91965719195893" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="396.73608755624895" y="0" width="63.26391244375099" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -237,12 +236,6 @@
                             <path fill="#00ADD8" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Go
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#8ea64c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Tree-sitter Query
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
