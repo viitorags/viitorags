@@ -20,14 +20,22 @@
 <img src="https://skillicons.dev/icons?i=git,github,neovim,vscode,docker" />
 
 ## Statistics
-<table>
+<!-- <table>
   <tbody>
     <tr>
-  <td><img src="https://github.com/viitorags/viitorags/blob/main/general.svg" width="100%" alt="Metrics"/></td>
-  <td><img src="https://github.com/viitorags/viitorags/blob/main/medias.svg" width="100%" alt="Metrics"/></td>
-</tr>
+      <td>
+        <img src="https://github.com/viitorags/viitorags/blob/main/general.svg" width="100%" alt="Metrics"/>
+      </td>
+      <td>
+        <img src="https://github.com/viitorags/viitorags/blob/main/medias.svg" width="100%" alt="Metrics"/>
+      </td>
+    </tr>
   </tbody>
-</table>
+</table> -->
+<div style="display: flex; gap: 10px;">
+  <img src="https://github.com/viitorags/viitorags/blob/main/general.svg" alt="Metrics" style="flex: 1;"/>
+  <img src="https://github.com/viitorags/viitorags/blob/main/medias.svg" alt="Metrics" style="flex: 1;"/>
+</div>
 
 ---
 
