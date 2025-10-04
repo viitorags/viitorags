@@ -38,7 +38,7 @@ jobs:
           plugin_languages_analysis_timeout_repositories: 7.5
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
-          plugin_languages_ignored: html, tex, less, dockerfile, makefile, qmake, lex, cmake, gnuplot, scala, tsq, lua, nix, ejs, css, shell
+          plugin_languages_ignored: html, tex, less, dockerfile, makefile, qmake, lex, cmake, gnuplot, scala, tsq, Tree-sitter Query, lua, nix, ejs, css, shell
           plugin_languages_limit: 8
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
