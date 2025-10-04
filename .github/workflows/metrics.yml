@@ -21,7 +21,7 @@ jobs:
         with:
           filename: general.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          config_padding: 0, 10 + 8%
+
           user: viitorags
           template: classic
           base: header, activity, community, repositories
@@ -43,7 +43,6 @@ jobs:
           user: viitorags
           template: classic
           base: ""
-          config_display: columns
           config_timezone: America/Sao_Paulo
           plugin_activity: yes
           plugin_activity_days: 14
