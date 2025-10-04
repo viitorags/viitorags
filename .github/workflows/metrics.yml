@@ -33,6 +33,19 @@ jobs:
           plugin_repositories_order: featured, pinned, starred, random
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_analysis_timeout_repositories: 7.5
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_ignored: html, tex, less, dockerfile, makefile, qmake, lex, cmake, gnuplot, scala, lua, nix, ejs, css, shell
+          plugin_languages_limit: 8
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_skipped: nixos-config, dotfiles, nvim
+          plugin_languages_threshold: 0%
           repositories_skipped: dotfiles, nixos-config, nvim
 
       - name: 🦑 Medias
@@ -56,6 +69,6 @@ jobs:
           plugin_anilist_limit: 2
           plugin_anilist_limit_characters: 22
           plugin_anilist_medias: manga
-          plugin_anilist_sections: favorites
+          plugin_anilist_sections: favorites, characters
           plugin_anilist_user: viitorags
           repositories_skipped: dotfiles, nixos-config, nvim
