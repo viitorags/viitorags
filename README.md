@@ -20,7 +20,7 @@
 <img src="https://skillicons.dev/icons?i=git,github,neovim,vscode,docker" />
 
 ## Statistics
-<img src="./github-metrics.svg" alt="Metrics" width="100%"/>
+<img src="./github-metrics.svg" align="{left|right|center}" alt="Metrics" width="100%"/>
 
 ---
 
@@ -30,7 +30,7 @@ Under maintenance...
 
 <div align="center">
   <h1 align="center">Thank you for reading</h1>
-  <img width="360" height="425" alt="image" src="https://github.com/user-attachments/assets/bdc9861d-7807-4e65-ab93-8646ba97c288" />
+  <img width="260" height="325" alt="image" src="https://github.com/user-attachments/assets/bdc9861d-7807-4e65-ab93-8646ba97c288" />
 
 
 </div>
