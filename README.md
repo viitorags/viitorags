@@ -20,7 +20,7 @@
 <img src="https://skillicons.dev/icons?i=git,github,neovim,vscode,docker" />
 
 ## Statistics
-<img src="https://github.com/viitorags/viitorags/blob/main/github-metrics.svg" align="{left|right|center}" alt="Metrics" width="100%" height="100%"/>
+<img src="https://github.com/viitorags/viitorags/blob/main/github-metrics.svg" style="width:100%; height: 100%;" align="{left|right|center}" alt="Metrics"/>
 
 ---
 
