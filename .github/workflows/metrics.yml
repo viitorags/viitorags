@@ -14,23 +14,35 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+    
+      - name: 🦑 General
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
-          # The following scopes are required:
-          #  - public_access (default scope)
-          # The following additional scopes may be required:
-          #  - read:org      (for organization related metrics)
-          #  - read:user     (for user related data)
-          #  - read:packages (for some packages related data)
-          #  - repo          (optional, if you want to include private repositories)
+          filename: general.svg
           token: ${{ secrets.METRICS_TOKEN }}
           config_padding: 0, 10 + 8%
-
-          # Options
           user: viitorags
           template: classic
           base: header, activity, community, repositories
+          config_timezone: America/Sao_Paulo
+          plugin_notable: yes
+          plugin_notable_from: all
+          plugin_notable_types: commit
+          plugin_repositories: yes
+          plugin_repositories_order: featured, pinned, starred, random
+          repositories_skipped: dotfiles, nixos-config, nvim
+
+      - name: 🦑 Medias
+        uses: lowlighter/metrics@latest
+        with:
+          filename: medias.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          
+          # Options
+          user: viitorags
+          template: classic
+          base: ""
           config_display: columns
           config_timezone: America/Sao_Paulo
           plugin_activity: yes
@@ -45,9 +57,4 @@ jobs:
           plugin_anilist_medias: manga
           plugin_anilist_sections: favorites
           plugin_anilist_user: viitorags
-          plugin_notable: yes
-          plugin_notable_from: all
-          plugin_notable_types: commit
-          plugin_repositories: yes
-          plugin_repositories_order: featured, pinned, starred, random
           repositories_skipped: dotfiles, nixos-config, nvim
