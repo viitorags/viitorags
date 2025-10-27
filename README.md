@@ -23,7 +23,7 @@
 
 <p align="center">
   <img src="https://github.com/viitorags/viitorags/blob/main/general.svg" alt="Metrics" width="49%"/>
-  <img src="https://github.com/viitorags/viitorags/blob/main/medias.svg" alt="Metrics" width="49%"/>
+  <!-- <img src="https://github.com/viitorags/viitorags/blob/main/medias.svg" alt="Metrics" width="49%"/> -->
 </p>
 
 ## Contact
