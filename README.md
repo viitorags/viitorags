@@ -13,17 +13,43 @@
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=js,html,css,nodejs,go,php,react,tailwind" />
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="storybook logo"  />
+</div>
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,neovim,vscode,docker" />
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="storybook logo"  />
+</div>
 
 ## Statistics
 
 <p align="center">
   <img src="https://github.com/viitorags/viitorags/blob/main/general.svg" alt="Metrics" width="49%"/>
-  <!-- <img src="https://github.com/viitorags/viitorags/blob/main/medias.svg" alt="Metrics" width="49%"/> -->
+  <img src="https://github.com/viitorags/viitorags/blob/main/medias.svg" alt="Metrics" width="49%"/>
 </p>
 
 ## Contact
@@ -37,6 +63,4 @@
 <div align="center">
   <h1 align="center">Thank you for reading</h1>
   <img width="260" height="325" alt="image" src="https://github.com/user-attachments/assets/bdc9861d-7807-4e65-ab93-8646ba97c288" />
-
-
 </div>
