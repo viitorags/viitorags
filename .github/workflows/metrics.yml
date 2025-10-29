@@ -26,6 +26,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories
           config_timezone: America/Sao_Paulo
+          config_order: base.header, isocalendar, languages, notable
           plugin_notable: yes
           plugin_notable_from: all
           plugin_notable_types: commit
@@ -34,17 +35,11 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_analysis_timeout_repositories: 7.5
-          plugin_languages_categories: markup, programming
-          plugin_languages_colors: github
           plugin_languages_ignored: html, tex, less, dockerfile, makefile, qmake, lex, cmake, gnuplot, scala, tsq, Tree-sitter Query, lua, nix, ejs, css, shell
-          plugin_languages_limit: 8
-          plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 14
-          plugin_languages_recent_load: 300
-          plugin_languages_sections: most-used
-          plugin_languages_threshold: 0%
+          plugin_languages_details: lines, bytes-size, percentage
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_indepth: yes
+          plugin_languages_limit: 2
           plugin_languages_skipped: nixos-config, dotfiles, nvim
           repositories_skipped: dotfiles, nixos-config, nvim
 
@@ -59,16 +54,20 @@ jobs:
           template: classic
           base: ""
           config_timezone: America/Sao_Paulo
-          plugin_activity: yes
-          plugin_activity_days: 14
-          plugin_activity_filter: all
-          plugin_activity_limit: 5
-          plugin_activity_load: 300
-          plugin_activity_visibility: all
+          #plugin_activity: yes
+          #plugin_activity_days: 14
+          #plugin_activity_filter: all
+          #plugin_activity_limit: 5
+          #plugin_activity_load: 300
+          #plugin_activity_visibility: all
+          plugin_pagespeed: yes
+          plugin_pagespeed_screenshot: yes
+          #plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+          plugin_pagespeed_url: https://vitoraraujosz.vercel.app/
           plugin_anilist: yes
           plugin_anilist_limit: 2
           plugin_anilist_limit_characters: 22
           plugin_anilist_medias: manga
           plugin_anilist_sections: favorites, characters
           plugin_anilist_user: viitorags
-          repositories_skipped: dotfiles, nixos-config, nvim
+          repositories_skipped: dotfiles, nixos-config, nvim, nixdots
