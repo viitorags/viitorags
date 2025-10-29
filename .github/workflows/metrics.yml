@@ -34,13 +34,13 @@ jobs:
           plugin_repositories_order: featured, pinned, starred, random
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-          plugin_languages: yes
-          plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot, vue, scala, c, c++, python, ejs
-          plugin_languages_details: lines, bytes-size, percentage
-          plugin_languages_sections: most-used, recently-used
-          plugin_languages_indepth: yes
-          plugin_languages_limit: 2
-          plugin_languages_skipped: nixos-config, dotfiles, nvim
+          # plugin_languages: yes
+          # plugin_languages_details: lines, bytes-size, percentage
+          # plugin_languages_sections: most-used, recently-used
+          # plugin_languages_indepth: yes
+          # plugin_languages_limit: 2
+          # plugin_languages_ignored: html, tex, less, dockerfile, makefile, qmake, lex, cmake, gnuplot, scala, tsq, Tree-sitter Query, lua, nix, ejs, css, shell
+          # plugin_languages_skipped: nixos-config, dotfiles, nvim
           repositories_skipped: dotfiles, nixos-config, nvim
 
       - name: 🦑 Medias
