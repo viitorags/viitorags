@@ -48,8 +48,8 @@
 ## Statistics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/viitorags/viitorags/refs/heads/main/general.svg" alt="Metrics" width="49%"/>
-  <img src="https://raw.githubusercontent.com/viitorags/viitorags/refs/heads/main/medias.svg" alt="Metrics" width="49%"/>
+  <img src="https://github.com/viitorags/viitorags/blob/main/general.svg" alt="Metrics" width="49%"/>
+  <img src="https://github.com/viitorags/viitorags/blob/main/medias.svg" alt="Metrics" width="49%"/>
 </p>
 
 ## Contact
