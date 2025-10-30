@@ -17,7 +17,7 @@ jobs:
     
       - name: 🦑 General
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@main
         with:
           filename: general.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -44,7 +44,7 @@ jobs:
           repositories_skipped: dotfiles, nixos-config, nvim
 
       - name: 🦑 Medias
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@main
         with:
           filename: medias.svg
           token: ${{ secrets.METRICS_TOKEN }}
