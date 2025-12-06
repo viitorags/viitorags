@@ -60,23 +60,23 @@ jobs:
           plugin_activity_limit: 5
           plugin_activity_load: 300
           plugin_activity_visibility: all
-          plugin_achievements: yes
-          plugin_achievements_only: >-
-            polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
-            scripter, packager, explorer, infographile, manager
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: X
+          # plugin_achievements: yes
+          # plugin_achievements_only: >-
+          #   polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
+          #   scripter, packager, explorer, infographile, manager
+          # plugin_achievements_display: compact
+          # plugin_achievements_threshold: X
           plugin_anilist: yes
           plugin_anilist_limit: 2
           plugin_anilist_limit_characters: 22
           plugin_anilist_medias: manga, anime
           plugin_anilist_sections: favorites, characters
           plugin_anilist_user: viitorags
-          plugin_screenshot: yes
-          plugin_screenshot_background: yes
-          plugin_screenshot_mode: image
-          plugin_screenshot_selector: body
-          plugin_screenshot_title: Screenshot
-          plugin_screenshot_url: vitoraraujosz.vercel.app
-          plugin_screenshot_viewport: '{"width":1280,"height":1280}'
+          # plugin_screenshot: yes
+          # plugin_screenshot_background: yes
+          # plugin_screenshot_mode: image
+          # plugin_screenshot_selector: body
+          # plugin_screenshot_title: Screenshot
+          # plugin_screenshot_url: vitoraraujosz.vercel.app
+          # plugin_screenshot_viewport: '{"width":1280,"height":1280}'
           repositories_skipped: dotfiles, nixos-config, nvim, nixdots
