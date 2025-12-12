@@ -61,7 +61,7 @@
 	</td>
 	<td width="50%" valign="top" style="border:0!important;" >
 		<p align="center">
-			<img src="https://github.com/viitorags/viitorags/blob/main/general.svg" alt="Metrics"/>
+			<img src="https://github.com/viitorags/viitorags/blob/main/general.svg?sanitize=true" alt="Metrics"/>
 		</p>
 	</td>
 </tr>
