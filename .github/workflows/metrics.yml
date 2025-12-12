@@ -47,12 +47,12 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_languages_ignored: html, tex, less, dockerfile, makefile, qmake, lex, cmake, gnuplot, scala, tsq, Tree-sitter Query, lua, nix, ejs, css, glsl
           plugin_languages_skipped: nixos-config, dotfiles, nvim, nixdots
-          plugin_anilist: yes
-          plugin_anilist_limit: 2
-          plugin_anilist_limit_characters: 22
-          plugin_anilist_medias: manga, anime
-          plugin_anilist_sections: favorites, characters
-          plugin_anilist_user: viitorags
+          # plugin_anilist: yes
+          # plugin_anilist_limit: 2
+          # plugin_anilist_limit_characters: 22
+          # plugin_anilist_medias: manga, anime
+          # plugin_anilist_sections: favorites, characters
+          # plugin_anilist_user: viitorags
           repositories_skipped: dotfiles, nixos-config, nvim
 
       # - name: 🦑 Medias
