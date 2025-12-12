@@ -1,6 +1,7 @@
-<table style="border: none;">
-<tr>
-	<td>
+<table width="100%" cellspacing="0" cellpadding="0" 
+       style="border:0!important; border-collapse:collapse;">
+<tr style="border:0!important;">
+	<td width="50%" valign="top" style="border:0!important;">
 		<div align="left"> 
 			<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=F70C49&width=435&lines=Hi+there%2C+I'm+Vitor;Dev+%7C+Back-End+%7C+LARAVEL" alt="Typing SVG" /></a>
 			<img src="https://count.getloli.com/@viitorags?name=viitorags&theme=booru-r6gdrawfriends&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto&num=2025" width="300px"/>  
@@ -58,7 +59,7 @@
 		</a>
 		</div>
 	</td>
-	<td>
+	<td width="50%" valign="top" style="border:0!important;" >
 		<p align="center">
 			<img src="https://github.com/viitorags/viitorags/blob/main/general.svg" alt="Metrics"/>
 		</p>
