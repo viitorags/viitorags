@@ -54,12 +54,12 @@ jobs:
           template: classic
           base: ""
           config_timezone: America/Sao_Paulo
-          plugin_activity: yes
-          plugin_activity_days: 14
-          plugin_activity_filter: all
-          plugin_activity_limit: 5
-          plugin_activity_load: 300
-          plugin_activity_visibility: all
+          # plugin_activity: yes
+          # plugin_activity_days: 14
+          # plugin_activity_filter: all
+          # plugin_activity_limit: 5
+          # plugin_activity_load: 300
+          # plugin_activity_visibility: all
           # plugin_achievements: yes
           # plugin_achievements_only: >-
           #   polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
