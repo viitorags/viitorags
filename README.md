@@ -13,7 +13,7 @@
 `Go` `PHP` `JavaScript` `HTML/CSS` `Node.js`
 
 **FRAMEWORKS**
-`Laravel` `React` `Tailwind`
+`Laravel` `React` `NextJS` `Tailwind`
 
 **TOOLS**
 `NixOS` `Linux` `Neovim` `Docker` `Git`
