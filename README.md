@@ -22,20 +22,20 @@
 
 ### >_ ACTIVE_MISSIONS
 
-- [**InventSync**](https://github.com/viitorags/InventSync) - Inventory management system.
-- [**Gouly**](https://github.com/viitorags/gouly) - Encurter Url
+- [**InventSync**](https://github.com/vytaro/InventSync) - Inventory management system.
+- [**Gouly**](https://github.com/vytaro/encurtadorUrl) - Encurter Url
 
 <br />
 
-<a href="https://github.com/viitorags">
-  <img src="https://github-readme-stats-rickstaa.vercel.app/api?username=viitorags&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&icon_color=22c55e&title_color=22c55e&text_color=c9d1d9" height="150" />
+<a href="https://github.com/vytaro">
+  <img src="https://github-readme-stats-rickstaa.vercel.app/api?username=vytaro&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&icon_color=22c55e&title_color=22c55e&text_color=c9d1d9" height="150" />
 </a>
 
 ---
 
 ### >_ CONNECT
 
-- [GITHUB](https://github.com/viitorags)
+- [GITHUB](https://github.com/vytaro)
 - [LINKEDIN](https://www.linkedin.com/in/SEU_USUARIO/)
 - [EMAIL](mailto:vitoraraujo.tech@gmail.com)
 - [DISCORD](https://discordapp.com/users/vitor000562)
