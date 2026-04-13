@@ -1,7 +1,7 @@
 # VITOR ARAÚJO
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=22c55e&width=400&lines=root%40vytaro%3A~%24+fastfetch;System%3A+NixOS+%2F+Linux;Focus%3A+Go+%2F+Back-End" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=22c55e&width=400&lines=root%40vytorags%3A~%24+fastfetch;System%3A+NixOS+%2F+Linux;Focus%3A+Go+%2F+Back-End" alt="Typing SVG" />
 </a>
 
 > Computer Science student passionate about technology and open-source.
