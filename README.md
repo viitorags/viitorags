@@ -22,23 +22,23 @@
 
 ### >_ ACTIVE_MISSIONS
 
-- [**InventSync**](https://github.com/vytaro/InventSync) - Inventory management system.
-- [**Gouly**](https://github.com/vytaro/encurtadorUrl) - Encurter Url
+- [**InventSync**](https://github.com/vytorags/InventSync) - Inventory management system.
+- [**Gouly**](https://github.com/vytorags/encurtadorUrl) - Encurter Url
 
 <br />
 
-<a href="https://github.com/vytaro">
-  <img src="https://github-readme-stats-rickstaa.vercel.app/api?username=vytaro&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&icon_color=22c55e&title_color=22c55e&text_color=c9d1d9" height="150" />
+<a href="https://github.com/vytorags">
+  <img src="https://github-readme-stats-rickstaa.vercel.app/api?username=vytorags&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&icon_color=22c55e&title_color=22c55e&text_color=c9d1d9" height="150" />
 </a>
 
 ---
 
 ### >_ CONNECT
 
-- [GITHUB](https://github.com/vytaro)
+- [GITHUB](https://github.com/vytorags)
 - [LINKEDIN](https://www.linkedin.com/in/SEU_USUARIO/)
 - [EMAIL](mailto:vitoraraujo.tech@gmail.com)
 - [DISCORD](https://discordapp.com/users/vitor000562)
 
 <br />
-<code>[ vitor.dev ] — 2026</code>
+<code>[ vytorags.dev ] — 2026</code>
